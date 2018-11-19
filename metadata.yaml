@@ -1,0 +1,42 @@
+_repo: Falling-In-With-Fortune-The-Experiences-Of-A-Young-Secretary_58304
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Putnam, Arthur Lee
+    - Jr., Horatio Alger
+    - Alger, Horatio
+    - Preston, Charles F.
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+  - agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2018-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Falling In With Fortune
+
+  The Experiences Of A Young Secretary'
+url: http://www.gutenberg.org/ebooks/58304
